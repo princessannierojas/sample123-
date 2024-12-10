@@ -13,7 +13,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://sample123!!!.vercel.app",
+        "APP_URL": "https://sample12345.vercel.app",
         "APP_KEY": "base64:Q0TQL8FY7xBg48Not0XN3X9xwAikndctoHfSwPIYgOc=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
